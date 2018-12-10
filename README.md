@@ -69,7 +69,7 @@ Or:
     $ pelita demo_opponents/PolitePlayers.py myteam
 
 
-## Licence
+## License
 
-Code strongly inspired from the original Pelita players. The pelita license
+Code largely inspired from the original Pelita players. The pelita license
 is reproduced in COPYING.
