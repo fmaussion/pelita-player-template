@@ -29,7 +29,7 @@ tournament, for example:
     def team():
         return SimpleTeam("Local marsupials", KangarooPlayer(), KoalaPlayer())
 
-### `team/demo_player.py`
+### `myteam/demo_player.py`
 
 Contains the code for a simple demo player. This player can then be 
 imported in the `__init__.py` file.
@@ -39,7 +39,7 @@ imported in the `__init__.py` file.
 This could be a good place for global utility functions (but feel free to 
 add more files for this, if needed)
 
-### `test/test_demo_player.py`
+### `myteam/test/test_demo_player.py`
 
 Simple unittest for your player. You can run 
 tests using `pytest`, which automatically executes all tests in 
